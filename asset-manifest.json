@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wolearn/static/css/main.328f30c9.css",
-    "main.js": "/wolearn/static/js/main.60c9a776.js",
-    "static/js/453.3fac1b69.chunk.js": "/wolearn/static/js/453.3fac1b69.chunk.js",
-    "index.html": "/wolearn/index.html",
-    "main.328f30c9.css.map": "/wolearn/static/css/main.328f30c9.css.map",
-    "main.60c9a776.js.map": "/wolearn/static/js/main.60c9a776.js.map",
-    "453.3fac1b69.chunk.js.map": "/wolearn/static/js/453.3fac1b69.chunk.js.map"
+    "main.css": "/Wolearn/static/css/main.328f30c9.css",
+    "main.js": "/Wolearn/static/js/main.2bb0c6d5.js",
+    "static/js/453.3fac1b69.chunk.js": "/Wolearn/static/js/453.3fac1b69.chunk.js",
+    "index.html": "/Wolearn/index.html",
+    "main.328f30c9.css.map": "/Wolearn/static/css/main.328f30c9.css.map",
+    "main.2bb0c6d5.js.map": "/Wolearn/static/js/main.2bb0c6d5.js.map",
+    "453.3fac1b69.chunk.js.map": "/Wolearn/static/js/453.3fac1b69.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.328f30c9.css",
-    "static/js/main.60c9a776.js"
+    "static/js/main.2bb0c6d5.js"
   ]
 }
